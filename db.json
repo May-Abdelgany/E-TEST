@@ -3,18 +3,21 @@
     {
       "name": "In Progress",
       "value": "4 M",
+      "y":4,
       "color": "SteelBlue",
       "exploded": true
     },
     {
       "name": "Success",
       "value": "2 M",
+      "y":2,
       "color": "ForestGreen",
       "exploded": true
     },
     {
       "name": "Failed",
       "value": "1 M",
+      "y":1,
       "color": "DarkRed",
       "exploded": true
     }
