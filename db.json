@@ -1,20 +1,22 @@
 {
   "all_jobs": [
     {
-      "name": "Total Jobs",
-      "value": "7 M"
-    },
-    {
       "name": "In Progress",
-      "value": "4 M"
+      "value": "4 M",
+      "color": "SteelBlue",
+      "exploded": true
     },
     {
       "name": "Success",
-      "value": "2 M"
+      "value": "2 M",
+      "color": "ForestGreen",
+      "exploded": true
     },
     {
       "name": "Failed",
-      "value": "1 M"
+      "value": "1 M",
+      "color": "DarkRed",
+      "exploded": true
     }
   ],
   "dialy_jobs": {
