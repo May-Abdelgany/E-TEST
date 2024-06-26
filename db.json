@@ -1,0 +1,45 @@
+{
+all_jobs:[
+  {name:"Total Jobs", value :"7 M"},
+  {name:"In Progress", value :"4 M"},
+  {name:"Success", value :"2 M"},
+  {name:"Failed", value :"1 M"}
+],
+  dialy_jobs:{
+         last_update:"10-04-2020 10:12:40",
+         all:3000,
+         success:1000,
+         in_progress:1000,
+         failed:600,
+         retry:400
+  },
+activities:{
+    last_update:"10-04-2020 10:12:40",
+    data:[
+  {
+      title:"2052",
+      total_jobs:100,
+      status:"Action Type",
+      date:"10-05-2023 10:12:40"
+  },
+    {
+      title:"2010",
+      total_jobs:50,
+      status:"New Activation",
+      date:"14-04-2023 8:10:40"
+  } ,
+   {
+      title:"1050",
+      total_jobs:80,
+      status:"Action Type",
+      date:"10-04-2020 10:12:40"
+  },
+    {
+      title:"1005",
+      total_jobs:105,
+      status:"New Activation",
+      date:"14-04-2020 8:10:40"
+  }
+]
+}
+}
